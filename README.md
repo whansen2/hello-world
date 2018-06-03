@@ -1,2 +1,3 @@
 # hello-world
-GitHub Tutorial
+
+I am excited to learn more about GitHub!
