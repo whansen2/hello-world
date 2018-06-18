@@ -1,2 +1,1 @@
-# hello-world
-I am excited to learn more about GitHub!
+I am excited to learn more about Git/GitHub!
